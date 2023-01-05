@@ -23,10 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='demonstration.gif' title='Video Walkthrough' width='800px' alt='Video Walkthrough' />
+<img src='demo.gif' title='Video Walkthrough' width='800px' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with OBS & Adobe 
+GIF created with Licecap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,6 +35,8 @@ GIF created with OBS & Adobe
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+It was difficult learning about Javascript's features and applying them to the website and getting it to look the way I wanted it to look. It took some playing around and using the console to debug.
 
 ## License
 
